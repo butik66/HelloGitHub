@@ -1,0 +1,10 @@
+C:\Users\balamut\Desktop\project\krestiki\krestiki\bin\Debug\krestiki.exe.config
+C:\Users\balamut\Desktop\project\krestiki\krestiki\bin\Debug\krestiki.exe
+C:\Users\balamut\Desktop\project\krestiki\krestiki\bin\Debug\krestiki.pdb
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.csprojAssemblyReference.cache
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.Form1.resources
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.Properties.Resources.resources
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.csproj.GenerateResource.cache
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.csproj.CoreCompileInputs.cache
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.exe
+C:\Users\balamut\Desktop\project\krestiki\krestiki\obj\Debug\krestiki.pdb
